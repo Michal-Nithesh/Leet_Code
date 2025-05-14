@@ -5,4 +5,3 @@ class Solution {
         else { return num % 9; }
     }
 }
-
